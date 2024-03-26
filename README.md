@@ -7,7 +7,7 @@ Um Projeto de Sistema Financeiro para gerenciamento de finanças, tanto para uso
 O projeto está organizado da seguinte forma:
 
 ### Funcionamento Relação dos Objetos do Sistema Financeiro
-![preview](./.github/Funcionamento.png)
+![preview](./.github/Funcionamento1.png)
 
 ### 🖥️ Tecnologias Utilizadas
 - ![.NET](https://img.shields.io/badge/.NET-%235C2D91.svg?style=for-the-badge&logo=.net&logoColor=white)
